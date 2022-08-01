@@ -1,1 +1,1 @@
-toss_coin()
+def toss_coin():
